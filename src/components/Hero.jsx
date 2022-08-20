@@ -1,5 +1,5 @@
 import "../css/index.css"
-import HeroMain from '/public/images/Group-77.png'
+import HeroMain from './images/Group-77.png'
 
 function Hero() {
 

@@ -1,6 +1,6 @@
 import "../css/index.css"
 // import KatieZ from '../images/katie-zaferes.png'
-import Star from '/public/images/star.png'
+import Star from './images/star.png'
 // swap out import Star from './images/star.png' to add to github pages
 
 
