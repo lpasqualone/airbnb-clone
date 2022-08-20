@@ -4,11 +4,7 @@ export default [
         title: "Life Lessons with Katie Zaferes",
         description: "I will share with you what I call \"Positively Impactful Moments of Disappointment.\" Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.",
         price: 136,
-<<<<<<< HEAD
-        coverImg: "../images/katie-zaferes.png",
-=======
         coverImg: "./images/katie-zaferes.png",
->>>>>>> ecf701879a4926fae07e1bc6606e17635d6369d5
         stats: {
             rating: 5.0,
             reviewCount: 6
@@ -21,11 +17,7 @@ export default [
         title: "Learn Wedding Photography",
         description: "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
         price: 125,
-<<<<<<< HEAD
-        coverImg: "../images/wedding-photography.png",
-=======
         coverImg: "./images/wedding-photography.png",
->>>>>>> ecf701879a4926fae07e1bc6606e17635d6369d5
         stats: {
             rating: 5.0,
             reviewCount: 30
@@ -38,11 +30,7 @@ export default [
         title: "Group Mountain Biking",
         description: "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
         price: 50,
-<<<<<<< HEAD
-        coverImg: "../images/mountain-bike.png",
-=======
         coverImg: "./images/mountain-bike.png",
->>>>>>> ecf701879a4926fae07e1bc6606e17635d6369d5
         stats: {
             rating: 4.8,
             reviewCount: 2
